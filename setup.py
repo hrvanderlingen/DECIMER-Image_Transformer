@@ -20,7 +20,6 @@ setuptools.setup(
     license="MIT",
     install_requires=[
         "tensorflow-cpu==2.7.1",
-        "opencv-contrib-python==4.5.*",
         "pystow",
         "pyheif",
         "efficientnet",
