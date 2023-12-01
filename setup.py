@@ -19,7 +19,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     license="MIT",
     install_requires=[
-        "tensorflow-cpu==2.7.1",
+        "tensorflow==2.1",
         "pystow",
         "pyheif",
         "efficientnet",
